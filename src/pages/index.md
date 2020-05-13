@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kowabunga!
-image: /img/chemex.jpg
+image: /img/flavor_wheel.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
